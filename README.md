@@ -4,12 +4,16 @@ This IPL Analysis Dashboard provides a detailed and interactive visualization of
 
 📸 Dashboard Preview
 🧠 Overall IPL Dashboard
+<img width="1429" height="798" alt="image" src="https://github.com/user-attachments/assets/151e4598-1913-4f89-9e0e-a2ddaf5cb7cf" />
 
 🏏 IPL Batting Stats View
+<img width="492" height="323" alt="image" src="https://github.com/user-attachments/assets/e8780e07-0d05-49ba-ba35-9988af8cdc1b" />
 
 🎯 IPL Bowling Stats View
+<img width="490" height="306" alt="image" src="https://github.com/user-attachments/assets/270161fa-4af2-4a65-be5e-68fe1c698fdf" />
 
 📊 Season Selection Filter
+<img width="1434" height="800" alt="image" src="https://github.com/user-attachments/assets/077b6860-cf2e-4440-9e19-cb4097f3e9a1" />
 
 🔍 Key Features
 🎨 Interactive Visualization
